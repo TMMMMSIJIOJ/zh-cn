@@ -1,7 +1,7 @@
-User-agent: *
-Disallow: 
 
-User-agent: *
-Allow: /
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: https://zh-cn.sky4k.top/sitemap.xml
+sitemap: https://zh-cn.sky4k.top/new/sitemap.xml
+#End Attracta SEO Tools Sitemap. Do not remove
 
 
